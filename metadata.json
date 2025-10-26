@@ -1,0 +1,9 @@
+{
+  "name": "Website Fix Member Martabak",
+  "description": "Aplikasi web lengkap untuk pendaftaran, login, dan manajemen poin member bisnis martabak, dengan dashboard terpisah untuk member dan admin.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
